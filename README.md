@@ -38,4 +38,3 @@ A dynamic event study comparing municipalities before and after the large regula
 ### Night Light Density — Event Study
 
 ![Event study NLD](images/DID_NLD.png)
-
